@@ -1,2 +1,0 @@
-# Baik
-repo for homework
